@@ -11,6 +11,8 @@ tagline:          'Stories about the Tech World'
 description:      'Funny, Scary, Infomative Stories to help us all forge our way'
 url:              https://swagile.com
 baseurl:          /
+plugins:
+  - jekyll-seo-tag
 
 author:
   name:           'Christopher Massie'
